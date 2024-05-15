@@ -1,6 +1,3 @@
-# wordpress-plugin-quick-jobpost
-WordPress plugin to facilitate my job weblog posting.
-
 # Quick Jobpost
 A simple [WordPress](https://wordpress.org) plugin to help facilitate posting to my job weblog at https://arlin.education/jobs. 
 
@@ -12,4 +9,4 @@ A simple [WordPress](https://wordpress.org) plugin to help facilitate posting to
 Copyright (c) 2024 Arlin Schaffel
 
 Licensed under the [MIT License](https://choosealicense.com/licenses/mit/), available here:
-https://github.com/FeXd/wordpress-plugin-quick-jobpost/blob/main/LICENSE.md
+https://github.com/FeXd/wordpress-plugin-quick-jobpost/blob/main/LICENSE
